@@ -8,6 +8,6 @@ public class PipeController {
 
 	@GetMapping("/ver")
 	public String ver() {
-		return "Ver: 1.0.0.0";
+		return "Ver: 1.0.0.1";
 	}
 }
